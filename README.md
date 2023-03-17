@@ -46,11 +46,13 @@
 - طراحی وب<br>
 (Front-End)<br>
 (Client Side)<br>
+کاربر می بیند و در کامپیوتر خودش اجرا می شود.<br>
 چیزی که کاربر داخل مرورگر می بیند:eyes: را می نویسد.<br>
 مناسب کسایی که دیزاین:paintbrush: دوست دارند:sparkling_heart:.
 - برنامه نویسی وب<br>
 (Back-End)<br>
 (Server Side)<br>
+کاربر نمی بیند و سمت سرور اجرا می شود.<br>
 کد ها و منطق:brain: پس زمینه صفحات وب را می نویسد.<br>
 مناسب کسایی که ریاضی:heavy_plus_sign: و منطق دوست دارند:two_hearts:.
 
@@ -100,7 +102,9 @@ PHP, ASP.net, Python,…
 
 به جایی:house: که سرورها قرار می گیرند اتاق سرور (server room) می گویند.
 
-![request & response road](./web_road.png)
+<p align="center">
+    <img src="./web_road.png" alt="request & response road">
+</p>
 
 :pushpin:WWWW: World Wide Web
 </div>
